@@ -31,7 +31,7 @@
 ## Recapitulatif des fonctions cree et utilisee
 
 - **`function createGrid(n)`** qui cree une grille de `n` colones et `n` lignes
--**`function creetableau_de_grilles()`** qui cree une grille vide
+- **`function creetableau_de_grilles()`** qui cree une grille vide
 - **`function verifSi_vivant(el, vie)`** qui verifie si `el` est vivant grace a `vie`
 - **`function coordonnes()`** qui change la couleur de la cellule si vivant ou mort
 - **`function countVoisin(y, x)`** qui compte les voisins de la cellule `cellules[y][x]`
