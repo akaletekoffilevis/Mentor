@@ -41,13 +41,13 @@
 -  **`function get()`** qui recupere la vitesse de la simulation
 
 
-  ## Difficultés Rencontrer
+  ## Difficultés Rencontrées 
 
-  Au debut , c'etait tres difficiles, mais avec le temps ,un peu plus réflexion et une bonne dose de courage tout est possible.
-  j'ai pu surmonter certain difficulté surtout la logique et le calcul des voisins.
+  Au début , c'était très difficile, mais avec le temps ,un peu plus réflexion et une bonne dose de courage tout est possible.
+  j'ai pu surmonter certain difficultés surtout la logique et le calcul des voisins.
 
-  ## Outils Utiliser 
-  Vscode comme éditeur, google pour mes recherches et quelques documentation du jeu de Conway.
+  ## Outils Utilisés 
+  Vscode comme éditeur, google pour mes recherches et quelques documentations `pdf` du jeu de Conway.
 
 
 
