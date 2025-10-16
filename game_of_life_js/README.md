@@ -1,6 +1,7 @@
 # JEU DE LA VIE DE CONWAY
 
-## Fichier : `index.html,style.css, et script.js`
+## Fichier : 
+- `index.html,style.css, et script.js`
 
 ## Description
 
