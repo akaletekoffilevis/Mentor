@@ -1,0 +1,85 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 16px;
+  background-color: rgb(42, 41, 43);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+textarea{
+  resize: none;
+}
+
+h1 {
+  font-size:30px;
+  margin: 0 0 10px;
+  color: rgb(183, 255, 0);
+}
+
+.controls {
+  display: flex;
+  margin: 20px 20px;
+  width: min-content;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 12px;
+}
+
+.btn {
+  background: #477bc5;
+  color: #ffffff;
+  border: 0;
+  font-weight: bold;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn.se {
+  background: #006aff;
+}
+
+#vue_grilles {
+  width: auto;
+  background: #ffffff87;
+  display: grid;
+  grid-template-columns: repeat(30, 20px);
+  gap: 0px;
+  border: 20px solid rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.cellules {
+  background: #ffffff;
+  border: 1px rgba(0, 0, 0, 0.426) solid;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+
+.vivant {
+  background: #1fc109;
+}
+
+.generation{
+  background-color: white;
+  text-align: center;
+  border-radius: 0px 0px 60px 60px;
+  padding: 5px 40px;
+}
+.description {
+  display: flex;
+  margin-top: 4px;
+  font-size: 12px;
+  color: rgb(179, 225, 13);
+}
+
+@media (max-width: 520px) {
+  #vue_grilles {
+    width: 100%;
+    height: auto;
+  }
+}

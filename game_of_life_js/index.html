@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Le jeu de la vie de Conway</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Conway's Game of Life</h1>
+  <div id="vue_grilles" aria-label="Grille du jeu de la vie"></div>
+  <div class="generation"></div>
+  <div class="controls">
+    <button id="start" class="btn">START</button>
+    <button id="step" class="btn se">STEP</button>
+    <button id="random" class="btn se">RANDOM</button>
+    <button id="reset" class="btn se">RESET</button>
+   <textarea id="speed" onfocus="get()" minlength="3" placeholder="800" maxlength="4" cols="4" rows="1">800</textarea>
+  </div>
+  <div class="description">
+    <ul>
+      <li>Cliquer sur les Cellules pour les Activer ou Désactiver</li>
+      <li>Cliquer sur "START" pour Commencer la Simulation apres Selection</li>
+      <li>Cliquer sur "STEP" pour Simuler une Generation de Cellule</li>
+      <li>Cliquer sur "RANDOM" pour Simuler Aleatoirement la Vie Cellulaire</li>
+      <li>Cliquer sur "RESET" pour tout Vider de la Grilles</li>
+    </ul>
+    <ul>
+      <li>Raccourcis clavier : </li>
+      <li>Utiliser "ESPACE" pour "START" sur le Clavier</li>
+      <li>Utiliser "r" pour "RANDOM" sur le Clavier</li>
+      <li>Utiliser "e" pour "STEP" sur le Clavier</li>
+      <li>Utiliser "s" pour "RESET" sur le Clavier</li>
+    </ul>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
