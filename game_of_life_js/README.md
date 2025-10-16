@@ -1,6 +1,6 @@
 # JEU DE LA VIE DE CONWAY
 
-## Fichier : `index.html`,`style.css`, et `script.js`
+### Fichier : `index.html`,`style.css`, et `script.js`
 
 ## Description
 
@@ -42,11 +42,11 @@
 
   ## Difficultés Rencontrer
 
-  Au debut , c'etait tres difficiles, mais avec le temps , plus réflexion et une bonne doses de courage , tout s'est bien passé .
-  j'ai pu surmonter certain difficulté.
+  Au debut , c'etait tres difficiles, mais avec le temps ,un peu plus réflexion et une bonne dose de courage tout est possible.
+  j'ai pu surmonter certain difficulté surtout la logique et le calcul des voisins.
 
   ## Outils Utiliser 
-  Vscode comme éditeur, google pour mes recherches et quelques documentation du jeu de Conway
+  Vscode comme éditeur, google pour mes recherches et quelques documentation du jeu de Conway.
 
 
 
