@@ -45,6 +45,10 @@
   Au debut , c'etait tres difficiles, mais avec le temps , plus réflexion et une bonne doses de courage , tout s'est bien passé .
   j'ai pu surmonter certain difficulté.
 
+  ## Outils Utiliser 
+  Vscode comme éditeur, google pour mes recherches et quelques documentation du jeu de Conway
+
+
 
 
 
