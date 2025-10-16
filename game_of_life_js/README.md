@@ -35,14 +35,16 @@
 - **`function coordonnes()`** qui change la couleur de la cellule si vivant ou mort
 - **`function countVoisin(y, x)`** qui compte les voisins de la cellule `cellules[y][x]`
 - **`function step()`** qui simule `1` (une) generation
-
-  ##Difficultés Rencontrer
-
-  Au debut , c'etait tres difficiles, mais avec le temps , plus réflexion et une bonne doses de courage , tout s'est bien passé .
-  j'ai pu surmonter certain difficulté.
 - **`function start()`** qui demarre la simulation
 - **`function stop()`** qui arrete la simulation
 -  **`function get()`** qui recupere la vitesse de la simulation
+
+
+  ## Difficultés Rencontrer
+
+  Au debut , c'etait tres difficiles, mais avec le temps , plus réflexion et une bonne doses de courage , tout s'est bien passé .
+  j'ai pu surmonter certain difficulté.
+
 
 
 
