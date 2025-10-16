@@ -1,6 +1,6 @@
 # JEU DE LA VIE DE CONWAY
 
-### Fichier : `index.html`,`style.css`, et `script.js`
+## Fichier : `index.html`,`style.css`, et `script.js`
 
 ## Description
 
@@ -15,7 +15,7 @@
 
 ## Fonctionnalités
 
-- Boutoun START/STOP, STEP (une génération), RANDOM, RESET
+- Boutou START/STOP, STEP (une génération), RANDOM, RESET
 
 - **Raccourcis clavier :**
   - Espace : START/STOP (demarrer / arreter la simulation)
