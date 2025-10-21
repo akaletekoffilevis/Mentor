@@ -30,16 +30,11 @@
 
 ## Recapitulatif des fonctions cree et utilisee
 
-- **`function createGrid(n)`** qui cree une grille de `n` colones et `n` lignes
-- **`function creetableau_de_grilles()`** qui cree une grille vide
-- **`function verifSi_vivant(el, vie)`** qui verifie si `el` est vivant grace a `vie`
-- **`function coordonnes()`** qui change la couleur de la cellule si vivant ou mort
-- **`function countVoisin(y, x)`** qui compte les voisins de la cellule `cellules[y][x]`
-- **`function step()`** qui simule `1` (une) generation
-- **`function start()`** qui demarre la simulation
-- **`function stop()`** qui arrete la simulation
-- **`function get()`** qui recupere la vitesse de la simulation
-
+- **`La classe Grid`** qui encapsule l'état et les règles
+- **`La classe GameOfLife`** qui est le Jeu principal (utilise requestAnimationFrame et rendu partiel)
+- **`La classe Controller`** qui lie l'UI au jeu
+- **`La classe CanvasRenderer`** qui dessine la grille sur un canvas
+- 
 ## Difficultés Rencontrées
 
 Au début , c'était très difficile, mais avec le temps ,un peu plus réflexion et une bonne dose de courage tout est possible.
@@ -601,4 +596,5 @@ Tu as les bases, maintenant il s'agit de raffiner et d'approfondir. Continue com
 **Rôle :** Développeur Full Stack Senior
 
 _"Le code parfait n'existe pas, mais le code qui s'améliore constamment, oui."_
+
 
