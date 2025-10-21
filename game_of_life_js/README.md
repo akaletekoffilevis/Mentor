@@ -2,7 +2,7 @@
 
 ## Fichier
 
-- `index.html,style.css, et script.js`
+- `index.html,style.css, core.js, ui.js, utils.js, script.js`
 
 ## Description
 
@@ -601,3 +601,4 @@ Tu as les bases, maintenant il s'agit de raffiner et d'approfondir. Continue com
 **Rôle :** Développeur Full Stack Senior
 
 _"Le code parfait n'existe pas, mais le code qui s'améliore constamment, oui."_
+
